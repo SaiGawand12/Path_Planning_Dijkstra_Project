@@ -22,8 +22,8 @@ To install the required dependencies, follow these steps:
 1. Clone or download the repository:
 
 ```bash
-git clone https://github.com/your-username/your-repository.git
-cd your-repository
+git clone https://github.com/SaiGawand12/Path_Planning_Dijkstra_Project.git
+cd Path_Planning_Dijkstra_Project
 ```
 
 2. Install the required Python libraries using `pip`:
@@ -56,7 +56,7 @@ Set `start` and `end` to the desired nodes in your graph.
 3. **Run the script**: Once you've set the graph and nodes, you can run the script. In your terminal, navigate to the directory where the script is located, and run:
 
 ```bash
-python shortest_path_finder.py
+python main.py
 ```
 
 This will output the shortest path and its distance to the console, and also display a graphical representation of the graph with the shortest path highlighted.
